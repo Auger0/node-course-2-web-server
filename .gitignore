@@ -1,0 +1,7 @@
+
+.idea/modules.xml
+.idea/node-web-server.iml
+.idea/workspace.xml
+node_modules/
+package-lock.json
+server.log
